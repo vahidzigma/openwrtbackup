@@ -1,1 +1,1 @@
-ALLOW=1
+ALLOW=0
